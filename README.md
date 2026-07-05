@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0016-3sum-closest) |
+| [0027-remove-element](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0027-remove-element) |
 | [0055-jump-game](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0027-remove-element) |
 | [0295-find-median-from-data-stream](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0295-find-median-from-data-stream) |
 ## Sorting
 |  |
