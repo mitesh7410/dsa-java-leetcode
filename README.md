@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Two Pointers
@@ -112,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
