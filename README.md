@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0056-merge-intervals) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -170,5 +171,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0204-count-primes) |
 | [0556-next-greater-element-iii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0556-next-greater-element-iii) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
