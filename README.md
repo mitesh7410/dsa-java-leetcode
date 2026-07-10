@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0050-powx-n) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0204-count-primes) |
 | [0556-next-greater-element-iii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0556-next-greater-element-iii) |
 ## Enumeration
