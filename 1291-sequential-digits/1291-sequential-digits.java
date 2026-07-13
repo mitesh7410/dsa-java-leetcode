@@ -9,7 +9,7 @@ class Solution {
                 ans.add(num);
             }
          }
-         Collections.sort(ans);
+         ans.sort(null);
          return ans;
     }
 }
