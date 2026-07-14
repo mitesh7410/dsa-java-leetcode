@@ -1,27 +1,28 @@
 class Solution {
     public boolean exist(char[][] board, String word) {
-        int row = board.length;
-        int col = board[0].length;
-        for(int i=0;i<row;i++){
-            for(int j=0;j<col;j++){
-                if(board[i][j] == word.charAt(0)){
-                if(search(board,word,0,i,j))
-                 return true;
-                } 
+        char[] word_arr = word.toCharArray();
+
+        for(int i = 0; i < board.length; i++){
+            for(int j = 0; j < board[0].length; j++){
+                if(board[i][j] == word_arr[0] && exists(board, i, j, word_arr, 0)) return true;
             }
         }
         return false;
     }
-   private boolean search(char[][] board,String word, int idx, int r, int c){
-        if(idx==word.length()) return  true;
-        if(r<0||r>=board.length||c<0||c>=board[0].length||word.charAt(idx)!=board[r][c])
-        return false;
 
-        char temp = board[r][c];
-        board[r][c]='#';
-        boolean found=search(board,word,idx+1,r,c+1)||search(board,word,idx+1,r+1,c)||search(board,word,idx+1,r,c-1)||search(board,word,idx+1,r-1,c);
+    private boolean exists(char[][] board, int i, int j, char[] word_arr, int idx){
+
+        if(idx == word_arr.length) return true;
+
+        if(i < 0 || i >= board.length || j < 0 || j >= board[0].length || board[i][j] == '*' || board[i][j] != word_arr[idx]) return false;
+
+        char ch = board[i][j];
         
-        board[r][c] =temp;
-        return found;
+        board[i][j] = '*';
+
+        boolean result = exists(board, i+1, j, word_arr, idx+1) || exists(board, i-1, j, word_arr, idx+1) || exists(board, i, j+1, word_arr, idx+1) || exists(board, i, j-1, word_arr, idx+1);
+        board[i][j] = ch;
+
+        return result;
     }
 }
