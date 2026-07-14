@@ -4,8 +4,10 @@ class Solution {
         int col = board[0].length;
         for(int i=0;i<row;i++){
             for(int j=0;j<col;j++){
+                if(board[i][j] == word.charAt(0)){
                 if(search(board,word,0,i,j))
                  return true;
+                } 
             }
         }
         return false;
