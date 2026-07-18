@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0692-top-k-frequent-words](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0692-top-k-frequent-words) |
 | [1331-rank-transform-of-an-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0204-count-primes) |
 | [0556-next-greater-element-iii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0556-next-greater-element-iii) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Trie
 |  |
