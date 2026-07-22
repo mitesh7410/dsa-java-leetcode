@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0079-word-search](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0409-longest-palindrome) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0242-valid-anagram](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0451-sort-characters-by-frequency) |
