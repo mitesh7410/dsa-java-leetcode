@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0058-length-of-last-word](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0242-valid-anagram) |
