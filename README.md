@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Design
 |  |
 | ------- |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2815-max-pair-sum-in-an-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/2815-max-pair-sum-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -186,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0692-top-k-frequent-words) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Quickselect
 |  |
 | ------- |
