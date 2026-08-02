@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0486-predict-the-winner) |
 | [0692-top-k-frequent-words](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0877-stone-game](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0877-stone-game) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0877-stone-game) |
 ## Stack
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0486-predict-the-winner) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0050-powx-n) |
 | [0096-unique-binary-search-trees](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0204-count-primes) |
+| [0486-predict-the-winner](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0486-predict-the-winner) |
 | [0556-next-greater-element-iii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0556-next-greater-element-iii) |
 | [0877-stone-game](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -423,5 +427,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
