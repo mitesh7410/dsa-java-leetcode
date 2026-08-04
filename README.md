@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0058-length-of-last-word) |
+| [0072-edit-distance](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0242-valid-anagram) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
