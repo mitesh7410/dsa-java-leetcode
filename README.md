@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0486-predict-the-winner) |
+| [0542-01-matrix](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0542-01-matrix) |
 | [0692-top-k-frequent-words](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0733-flood-fill](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0877-stone-game) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0486-predict-the-winner) |
+| [0542-01-matrix](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0877-stone-game) |
 ## Stack
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0079-word-search) |
 | [0304-range-sum-query-2d-immutable](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0542-01-matrix](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1260-shift-2d-grid) |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0542-01-matrix](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0542-01-matrix) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0733-flood-fill) |
