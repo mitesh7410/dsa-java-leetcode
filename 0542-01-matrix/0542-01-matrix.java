@@ -2,28 +2,32 @@ class Solution {
     public int[][] updateMatrix(int[][] mat) {
         int m = mat.length;
         int n = mat[0].length;
-        int INF = Integer.MAX_VALUE/2;
-        int[][] dist =  new int[m][n];
-        for(int i=0;i<m;i++){ 
-            for(int j=0;j<n;j++){
-                if(mat[i][j]!=0)
-                   dist[i][j] = INF;
-            }
-        }
-        
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                if(i>0) dist[i][j] = Math.min(dist[i][j],dist[i-1][j]+1);
-                if(j>0) dist[i][j] = Math.min(dist[i][j],dist[i][j-1]+1);
+        int[][] dist = new int[m][n];
+        boolean[][] visited = new boolean[m][n];
+        Queue<int[]> queue = new LinkedList<>();
 
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (mat[i][j] == 0) {
+                    queue.offer(new int[]{i, j});
+                    visited[i][j] = true;
+                }
             }
         }
 
-         for(int i=m-1;i>=0;i--){
-            for(int j=n-1;j>=0;j--){
-                if(i<m-1) dist[i][j] = Math.min(dist[i][j],dist[i+1][j]+1);
-                if(j<n-1) dist[i][j] = Math.min(dist[i][j],dist[i][j+1]+1);
+        int[][] dirs = {{-1,0},{1,0},{0,-1},{0,1}};
 
+        while (!queue.isEmpty()) {
+            int[] cell = queue.poll();
+            int r = cell[0], c = cell[1];
+
+            for (int[] d : dirs) {
+                int nr = r + d[0], nc = c + d[1];
+                if (nr >= 0 && nr < m && nc >= 0 && nc < n && !visited[nr][nc]) {
+                    dist[nr][nc] = dist[r][c] + 1;
+                    visited[nr][nc] = true;
+                    queue.offer(new int[]{nr, nc});
+                }
             }
         }
 
