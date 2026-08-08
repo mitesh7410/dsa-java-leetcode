@@ -1,65 +1,30 @@
 class Solution {
-     class Pair{
-        int x;
-        int y;
-        Pair(int i, int j){
-            x = i;
-            y = j;
-        }
+    private void dfs(int[][] image, int i, int j, int a,int color){
+        if(image[i][j]!=a||image[i][j]==color) return;
+        else
+        image[i][j]=color;
+
+        if(i-1>=0)dfs(image,i-1,j,a,color);
+        if(i+1<image.length)dfs(image,i+1,j,a,color);
+        if(j-1>=0)dfs(image,i,j-1,a,color);
+        if(j+1<image[0].length)dfs(image,i,j+1,a,color);
+
+        return;
+
     }
-    public int[][] floodFill(int[][] grid, int sr, int sc, int colour) {
-        int m = grid.length;
-        int n = grid[0].length;
-        Queue<Pair> q = new LinkedList<>();
-        int c=0;
-        int color = -1;
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                if(i==sr&&j==sc){
-                 q.offer(new Pair(i,j));
-                 color = grid[i][j];
-                }
-             
+    public int[][] floodFill(int[][] image, int sr, int sc, int color) {
+        int m = image.length;
+        int n = image[0].length;
+        int a = image[sr][sc];
+        if(color==a) return image;
+        image[sr][sc]=color;
 
-            }
-        }
-        if(colour==color) return grid;
-        grid[sr][sc]=colour;
-        while(!q.isEmpty()){
-            int size = q.size();
-            for(int k=0;k<size;k++){
-                Pair p = q.poll();
-                int i =p.x;
-                int j=p.y;
-        
-        
-           if(j-1>=0&&grid[i][j-1]==color){
-              grid[i][j-1]=colour;
-              q.offer(new Pair(i,j-1));
-            }
-           if(i-1>=0&&grid[i-1][j]==color){
-              grid[i-1][j]=colour;
-              q.offer(new Pair(i-1,j));
+        if(sr-1>=0)dfs(image,sr-1,sc,a,color);
+        if(sr+1<image.length)dfs(image,sr+1,sc,a,color);
+        if(sc-1>=0)dfs(image,sr,sc-1,a,color);
+        if(sc+1<image[0].length)dfs(image,sr,sc+1,a,color);
 
-            }
-           if(j+1<grid[0].length&&grid[i][j+1]==color){
-              grid[i][j+1]=colour;
-              q.offer(new Pair(i,j+1));
+        return image;
 
-            }
-           if(i+1<grid.length&&grid[i+1][j]==color){
-              grid[i+1][j]=colour;
-              q.offer(new Pair(i+1,j));
-
-            }
-
-            }
-
-        }
-                
-        
-        return grid;
-
-        
     }
 }
