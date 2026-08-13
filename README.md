@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0130-surrounded-regions) |
 | [0179-largest-number](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0229-majority-element-ii) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0542-01-matrix](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0733-flood-fill) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0404-sum-of-left-leaves) |
@@ -512,5 +516,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0200-number-of-islands) |
 | [1020-number-of-enclaves](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
