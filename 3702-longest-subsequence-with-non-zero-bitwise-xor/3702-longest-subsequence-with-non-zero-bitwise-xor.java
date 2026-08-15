@@ -1,16 +1,13 @@
 class Solution {
     public int longestSubsequence(int[] nums) {
-        int n = nums.length;
-        int bitwise=nums[0];
-        int zero = nums[0]==0?1:0;
-        for(int i=1;i<n;i++){
-            if(nums[i]==0)zero++;
-            bitwise=bitwise^nums[i];
+        int bitwise=0;
+        int zero = 0;
+        for(int num: nums){
+            if(num==0)zero++;
+            bitwise=bitwise^num;
         }
-        if(zero==n)
-        return 0;
-
-        return bitwise==0?n-1:n;
-
+        if(bitwise!=0) return nums.length;
+        else if(zero==nums.length) return 0;
+        else return nums.length-1;
     }
 }
