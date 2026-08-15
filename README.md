@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0079-word-search) |
+| [0127-word-ladder](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0257-binary-tree-paths) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0127-word-ladder) |
 | [0229-majority-element-ii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0127-word-ladder](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0207-course-schedule) |
@@ -538,4 +541,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
