@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2815-max-pair-sum-in-an-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/2815-max-pair-sum-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -480,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [1386-cinema-seat-allocation](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Monotonic Stack
 |  |
