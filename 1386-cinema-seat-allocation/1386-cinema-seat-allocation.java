@@ -1,27 +1,52 @@
 class Solution {
     public int maxNumberOfFamilies(int n, int[][] reservedSeats) {
-      Map<Integer,Set<Integer>> map = new HashMap<>();
-      for(int[] seat : reservedSeats){
-          int row = seat[0];
-          int col = seat[1];
-          map.putIfAbsent(row,new HashSet<>());
-          map.get(row).add(col);
-      }
+        // Store reserved seats for each row
+        Map<Integer, Integer> reserved = new HashMap<>();
 
-      int family = (n-map.size())*2;
+        for (int[] seat : reservedSeats) {
+            int row = seat[0];
+            int col = seat[1];
 
-      for(Set<Integer>res: map.values()){
-        boolean left = !res.contains(2)&&!res.contains(3)&&!res.contains(4)&&!res.contains(5);
-        boolean middle = !res.contains(4)&&!res.contains(5)&&!res.contains(6)&&!res.contains(7);
-        boolean right = !res.contains(6)&&!res.contains(7)&&!res.contains(8)&&!res.contains(9);
-
-        if(left && right){
-            family+=2;
+            if (col >= 2 && col <= 9) {
+                reserved.put(row, reserved.getOrDefault(row, 0) | (1 << col));
+            }
         }
-        else if(left||right||middle){
-            family+=1;
+
+        int answer = (n - reserved.size()) * 2;
+
+        for (int mask : reserved.values()) {
+            boolean left = true;   
+            boolean middle = true; 
+            boolean right = true; 
+
+            for (int seat = 2; seat <= 5; seat++) {
+                if ((mask & (1 << seat)) != 0) {
+                    left = false;
+                    break;
+                }
+            }
+
+            for (int seat = 4; seat <= 7; seat++) {
+                if ((mask & (1 << seat)) != 0) {
+                    middle = false;
+                    break;
+                }
+            }
+
+            for (int seat = 6; seat <= 9; seat++) {
+                if ((mask & (1 << seat)) != 0) {
+                    right = false;
+                    break;
+                }
+            }
+
+            if (left && right) {
+                answer += 2;
+            } else if (left || middle || right) {
+                answer += 1;
+            }
         }
-      }
-       return family;    
+
+        return answer;
     }
 }
