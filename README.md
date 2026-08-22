@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0486-predict-the-winner) |
@@ -595,4 +597,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0802-find-eventual-safe-states) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
