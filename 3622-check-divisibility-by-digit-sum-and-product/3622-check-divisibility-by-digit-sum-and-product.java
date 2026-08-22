@@ -3,10 +3,10 @@ class Solution {
         int sum = 0;
         int product =1;
         int num = n;
+        int total = 0;
         while(n>0){
-            int rem = n%10;
-            sum+=rem;
-            product*=rem;
+            sum+=n%10;
+            product*=n%10;
             n/=10;
         }
         sum+=product;
