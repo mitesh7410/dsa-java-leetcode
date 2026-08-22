@@ -9,8 +9,7 @@ class Solution {
             product*=n%10;
             n/=10;
         }
-        sum+=product;
         
-        return num%sum==0;
+        return num%(sum+product)==0;
     }
 }
