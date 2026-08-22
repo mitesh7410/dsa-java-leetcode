@@ -1,62 +1,39 @@
 class Solution {
     public int networkDelayTime(int[][] times, int n, int k) {
-
-        List<List<int[]>> adj = new ArrayList<>();
-
-        for(int i = 0; i <= n; i++)
-            adj.add(new ArrayList<>());
-
-        for(int[] time : times){
-            int u = time[0];
-            int v = time[1];
-            int w = time[2];
-
-            adj.get(u).add(new int[]{v, w});
+        List<List<int[]>> list = new ArrayList<>();
+        int dist[] = new int[n+1];
+        for(int i=0;i<=n;i++){
+            list.add(new ArrayList<>());
+            dist[i]=Integer.MAX_VALUE;
         }
-
-        int[] dist = new int[n + 1];
-        Arrays.fill(dist, Integer.MAX_VALUE);
-
-        dist[k] = 0;
-
-        PriorityQueue<int[]> pq = new PriorityQueue<>((a,b) -> a[0]-b[0]);
-
-        pq.offer(new int[]{0,k});
-
-        while(!pq.isEmpty()){
-
-            int[] curr = pq.poll();
-
-            int currDist = curr[0];
-            int node = curr[1];
-
-            if(currDist > dist[node])
-                continue;
-
-            for(int[] neighbour : adj.get(node)){
-
-                int nextNode = neighbour[0];
-                int weight = neighbour[1];
-
-                if(dist[node] + weight < dist[nextNode]){
-
-                    dist[nextNode] = dist[node] + weight;
-
-                    pq.offer(new int[]{dist[nextNode], nextNode});
+        dist[0]=0;
+        dist[k]=0;
+        
+        for(int[] arr: times){
+            list.get(arr[0]).add(new int[]{arr[1],arr[2]});
+        }
+        PriorityQueue<int[]> q = new PriorityQueue<>((a,b) -> a[1]-b[1]);
+        q.add(new int[]{k,0});
+        int ans = 0;
+        while(!q.isEmpty()){
+             int[] arr = q.poll();
+             int u = arr[0];
+             int w = arr[1];
+             if(w > dist[u]) continue;
+             for(int[] i : list.get(u)){
+                int next = i[0];
+                int weight = i[1];
+                if(dist[next]>w+weight){
+                    dist[next]=w+weight;
+                    q.offer(new int[]{next,dist[next]});
                 }
-            }
+             }
         }
-
-        int maxDist = 0;
-
-        for(int i = 1; i <= n; i++){
-
-            if(dist[i] == Integer.MAX_VALUE)
-                return -1;
-
-            maxDist = Math.max(maxDist, dist[i]);
+        int max = 0;
+        for(int i:dist){
+            if(i==Integer.MAX_VALUE) return -1;
+            max = Math.max(max,i);
         }
-
-        return maxDist;
+        return max;
     }
 }
