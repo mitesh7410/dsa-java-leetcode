@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1872-stone-game-viii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1872-stone-game-viii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2815-max-pair-sum-in-an-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/2815-max-pair-sum-in-an-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0877-stone-game) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1510-stone-game-iv](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1872-stone-game-viii) |
 ## Stack
 |  |
 | ------- |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [1872-stone-game-viii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1872-stone-game-viii) |
 ## Matrix
 |  |
 | ------- |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0556-next-greater-element-iii) |
 | [0877-stone-game](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -524,16 +528,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1872-stone-game-viii) |
 ## Graph Theory
 |  |
 | ------- |
