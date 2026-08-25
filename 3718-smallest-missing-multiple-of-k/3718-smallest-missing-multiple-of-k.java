@@ -4,10 +4,14 @@ class Solution {
         for(int i:nums){
           set.add(i);
         }
-        for(int i=1;i<=100;i++){
-            if(!set.contains(i*k))
-             return i*k;
+        int multiple = k;
+        while(set.contains(multiple)) {
+
+            multiple = multiple + k;
+
         }
-        return 101*k;
+
+        return multiple;  
+        
     }    
 }
