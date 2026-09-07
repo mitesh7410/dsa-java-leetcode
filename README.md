@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0542-01-matrix) |
 | [0692-top-k-frequent-words](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0692-top-k-frequent-words) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0409-longest-palindrome) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0692-top-k-frequent-words) |
