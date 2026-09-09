@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0064-minimum-path-sum) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0257-binary-tree-paths) |
