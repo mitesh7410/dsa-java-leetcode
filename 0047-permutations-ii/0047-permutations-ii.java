@@ -1,25 +1,26 @@
 class Solution {
-     List<List<Integer>> ans = new ArrayList<>();
-     boolean[] used ;
-     Set<List<Integer>> set = new HashSet<>();
-        private void backtrack(int[] nums, List<Integer> curr, boolean[] used) {
-        if (curr.size() == nums.length&&!set.contains(curr)) {
-            set.add(curr);
-            ans.add(new ArrayList<>(curr));
+        
+    List<List<Integer>> ans = new ArrayList<>();
+    public List<List<Integer>> permuteUnique(int[] nums) {
+        Arrays.sort(nums);
+        func(nums, new ArrayList<>(), new boolean[nums.length]);
+        return ans;
+    }
+    public void func(int[] nums, List<Integer> k, boolean[] used) {
+        if (k.size() == nums.length) {
+            ans.add(new ArrayList<>(k));
             return;
         }
-        for (int i = 0; i < nums.length; i++) {
-            if (used[i]) continue;
+        for (int i  = 0; i < nums.length; i++) {
+            if (used[i])
+                continue;
+            if (i > 0 && nums[i] == nums[i - 1] && !used[i - 1])
+                continue;
             used[i] = true;
-            curr.add(nums[i]);
-            backtrack(nums, curr, used);
-            curr.remove(curr.size() - 1); 
+            k.add(nums[i]);
+            func(nums, k, used);
             used[i] = false;
+            k.remove(k.size() - 1);
         }
-    }
-    public List<List<Integer>> permuteUnique(int[] nums) {
-        boolean[] used = new boolean[nums.length];
-        backtrack(nums, new ArrayList<>(), used);
-        return ans;
     }
 }
