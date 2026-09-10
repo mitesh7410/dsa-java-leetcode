@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0056-merge-intervals) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0130-surrounded-regions) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0069-sqrtx) |
