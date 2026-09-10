@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0130-surrounded-regions) |
 | [0179-largest-number](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0204-count-primes) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0556-next-greater-element-iii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0556-next-greater-element-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0189-rotate-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0486-predict-the-winner) |
 | [0556-next-greater-element-iii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0556-next-greater-element-iii) |
