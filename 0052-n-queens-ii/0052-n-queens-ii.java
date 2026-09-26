@@ -1,35 +1,27 @@
 class Solution {
+    private int ans = 0;
     public int totalNQueens(int n) {
-        List<List<String>> ans = new ArrayList<>();
         char[][] arr = new char[n][n];
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
                 arr[i][j]='.';
             }
         }
-        placeQueen(0,ans,arr);
-        return ans.size();
+        placeQueen(0,arr);
+        return ans;
     }
-    private void placeQueen(int row, List<List<String>> ans, char[][] arr){
+    private void placeQueen(int row, char[][] arr){
         if(row==arr.length){
-            ans.add(construct(arr));
+            ans=ans+1;
             return;
         }
         for(int i=0;i<arr.length;i++){
             if(isSafe(arr,row,i)){
                arr[row][i]='Q';
-               placeQueen(row+1,ans,arr);
+               placeQueen(row+1,arr);
                arr[row][i]='.';
             }
         }
-    }
-    private List<String> construct(char[][]arr){
-        List<String> str = new ArrayList<>();
-        for(int i=0;i<arr.length;i++){
-            String row = new String(arr[i]);
-            str.add(row);
-        }
-        return str;
     }
     private boolean isSafe(char[][]arr,int row, int col){
         
