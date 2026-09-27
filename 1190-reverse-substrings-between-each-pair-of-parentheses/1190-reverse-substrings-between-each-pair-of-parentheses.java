@@ -1,30 +1,33 @@
 class Solution {
     public String reverseParentheses(String s) {
-        Deque<Integer> st = new ArrayDeque<>(); 
         int n = s.length();
-        StringBuilder str = new StringBuilder(s);
-        for(int i=0;i<n;i++){
-            if(str.charAt(i)=='(')
-             st.push(i);
-            else if (str.charAt(i)==')'){ 
-                int left = st.pop();
-                int right = i;
-                while(left<=right){
-                    char ch = str.charAt(left);
-                    str.setCharAt(left,str.charAt(right));
-                    str.setCharAt(right,ch);
-                    left++;
-                    right--;
-                }
-            }
-
-        }
-        String ans = "";
-        for(int i=0;i<n;i++){
-            if(str.charAt(i)!=')'&&str.charAt(i)!='('){
-                ans+=str.charAt(i);
+        int[] pair = new int[n];
+        Deque<Integer> st = new ArrayDeque<>();
+        
+        for (int i = 0; i < n; i++) {
+            if (s.charAt(i) == '(') {
+                st.push(i);
+            } else if (s.charAt(i) == ')') {
+                int j = st.pop();
+                pair[i] = j;
+                pair[j] = i;
             }
         }
-        return ans;
+        
+        StringBuilder ans = new StringBuilder();
+        int curr = 0;
+        int dir = 1;
+        
+        while (curr < n) {
+            if (s.charAt(curr) == '(' || s.charAt(curr) == ')') {
+                curr = pair[curr]; 
+                dir = -dir;        
+            } else {
+                ans.append(s.charAt(curr));
+            }
+            curr += dir; 
+        }
+        
+        return ans.toString();
     }
 }
