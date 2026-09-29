@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1872-stone-game-viii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2815-max-pair-sum-in-an-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/2815-max-pair-sum-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1872-stone-game-viii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Stack
 |  |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1260-shift-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1631-path-with-minimum-effort) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -746,4 +749,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
