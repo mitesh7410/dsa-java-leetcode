@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0130-surrounded-regions) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0198-house-robber) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0556-next-greater-element-iii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0556-next-greater-element-iii) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
