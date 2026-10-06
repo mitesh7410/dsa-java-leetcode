@@ -1,18 +1,18 @@
 class Solution {
     public int minAddToMakeValid(String s) {
-
-        int count = 0;
-        int ans = 0;
-        for(char ch : s.toCharArray()){
-            if(ch == '('){
-                count++;
+        int open=0;
+        int close=0;
+        for(int i=0;i<s.length();i++){
+            if(s.charAt(i)=='('){
+                open++;
+            }
+            else if(s.charAt(i)==')'&&open>0){
+                open--;
             }
             else{
-                if(count == 0) ans++;
-                else count--;
+                close++;
             }
         }
-
-        return ans + count;
+        return open+close;
     }
 }
