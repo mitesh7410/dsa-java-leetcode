@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0046-permutations) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0073-set-matrix-zeroes) |
