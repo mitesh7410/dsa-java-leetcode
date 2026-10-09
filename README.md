@@ -450,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0486-predict-the-winner) |
+| [1922-count-good-numbers](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1922-count-good-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Prefix Sum
 |  |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1872-stone-game-viii) |
+| [1922-count-good-numbers](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
