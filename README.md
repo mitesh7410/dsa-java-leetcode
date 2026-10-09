@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0542-01-matrix) |
 | [0692-top-k-frequent-words](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0733-flood-fill](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0733-flood-fill) |
+| [0860-lemonade-change](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0860-lemonade-change](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1386-cinema-seat-allocation) |
