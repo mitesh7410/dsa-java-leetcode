@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1510-stone-game-iv](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1510-stone-game-iv) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1872-stone-game-viii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
@@ -410,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -453,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Linked List
 |  |
@@ -598,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1510-stone-game-iv) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1872-stone-game-viii) |
 | [1922-count-good-numbers](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1922-count-good-numbers) |
@@ -729,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1020-number-of-enclaves) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
@@ -792,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Algorithm X
 |  |
@@ -823,4 +832,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
