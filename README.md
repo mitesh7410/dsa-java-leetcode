@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## String
 |  |
 | ------- |
@@ -620,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Enumeration
 |  |
 | ------- |
@@ -628,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3886-sum-of-sortable-integers](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Number Theory
 |  |
 | ------- |
