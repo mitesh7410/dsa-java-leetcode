@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0216-combination-sum-iii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -657,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0113-path-sum-ii) |
+| [0216-combination-sum-iii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0257-binary-tree-paths) |
 ## Simulation
 |  |
