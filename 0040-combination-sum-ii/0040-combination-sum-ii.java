@@ -1,33 +1,23 @@
 class Solution {
-    List<List<Integer>> ans =  new ArrayList<>();
-    private void check(int [] candidate,int remaining, int i,  List<Integer> li){
-             if(remaining==0){
-                ans.add(new ArrayList<>(li));
-                return;
-             }
-            if(remaining<0) return;
-            for(int j= i ;j<candidate.length;j++){
-
-            if (j > i && candidate[j] == candidate[j - 1]) {
-                continue;
-            }
-            
-            if (candidate[j] > remaining) {
-                break;
-            }
-
-            li.add(candidate[j]);
-            check(candidate,remaining-candidate[j], j+1 , li);
-            li.remove(li.size()-1);
-          }
-
+    private void comb(List<List<Integer>> ans,List<Integer> li, int i, int sum, int target, int[] candidate){
+        if(sum==target){
+            ans.add(new ArrayList<>(li));
+            return;
+        }
+        if(i==candidate.length) return;
+        if(sum>target) return;
+        li.add(candidate[i]);
+        comb(ans,li,i+1,sum+candidate[i],target,candidate);
+        li.remove(li.size()-1);
+        int next = i + 1;
+        while (next < candidate.length && candidate[next] == candidate[i]) next++;
+        comb(ans,li,next,sum,target,candidate);
+        return;
     }
     public List<List<Integer>> combinationSum2(int[] candidates, int target) {
+        List<List<Integer>> ans = new ArrayList<>();
         Arrays.sort(candidates);
-        check(candidates,target,0, new ArrayList<>());
-
-        return ans; 
-
-        
+        comb(ans,new ArrayList<>(),0,0,target,candidates);
+        return ans;
     }
 }
