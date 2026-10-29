@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3731-find-missing-elements) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -571,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -688,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Monotonic Stack
 |  |
@@ -857,10 +863,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Memoization
 |  |
 | ------- |
