@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0073-set-matrix-zeroes) |
