@@ -1,35 +1,40 @@
 class Solution {
-    public int nextGreaterElement(int n) {
-        char[] digits = String.valueOf(n).toCharArray();
-        int len = digits.length;
-
-   
-        int i = len - 2;
-        while (i >= 0 && digits[i] >= digits[i+1])
+    void swap(char[] ch, int i, int j){
+        char temp = ch[i];
+        ch[i]=ch[j];
+        ch[j]=temp;
+    }
+    public int nextGreaterElement(int N) {
+        String str = String.valueOf(N);
+        char [] ch = str.toCharArray();
+        int n = ch.length-1;
+        int i=n-1;
+        while(i>=0&&ch[i]>=ch[i+1]){
             i--;
 
-        if (i == -1) return -1;  
+        }
+        if(i<0)
+          return -1;
 
-        int j = len - 1;
-        while (digits[j] <= digits[i])
+        int j=n;
+        while(ch[j]<=ch[i]){
             j--;
+        }
+        swap(ch,i,j);
+        int left = i+1;
+        int right = n;
+        while(left<=right){
+            swap(ch,left,right);
+            left++;
+            right--;
+        }
+        long ans = 0;
+        for(int k=0;k<=n;k++){
+            ans=ans*10+ch[k]-'0';
+        }
+        return ans>Integer.MAX_VALUE?-1:(int)ans;
+    
+        
 
-        swap(digits, i, j);
-
-        reverse(digits, i+1, len-1);
-
-        long result = Long.parseLong(new String(digits));
-        return result > Integer.MAX_VALUE ? -1 : (int) result;
-    }
-
-    private void swap(char[] arr, int i, int j) {
-        char temp = arr[i];
-        arr[i] = arr[j];
-        arr[j] = temp;
-    }
-
-    private void reverse(char[] arr, int l, int r) {
-        while (l < r)
-            swap(arr, l++, r--);
     }
 }
