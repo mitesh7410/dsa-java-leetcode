@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0542-01-matrix) |
 | [0692-top-k-frequent-words](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0692-top-k-frequent-words) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0692-top-k-frequent-words](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -628,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0204-count-primes) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0486-predict-the-winner) |
 | [0556-next-greater-element-iii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0556-next-greater-element-iii) |
 | [0836-rectangle-overlap](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0836-rectangle-overlap) |
