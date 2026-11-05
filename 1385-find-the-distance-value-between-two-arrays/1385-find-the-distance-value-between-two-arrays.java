@@ -5,8 +5,9 @@ class Solution {
         int n2 = arr2.length;
         for(int i=0;i<n1;i++){
             boolean flag = true;
+            int val  = arr1[i];
             for(int j=0;j<n2;j++){
-                if(Math.abs(arr1[i]-arr2[j])<=d){
+                if(Math.abs(val-arr2[j])<=d){
                     flag=false;
                     break;
                 }
