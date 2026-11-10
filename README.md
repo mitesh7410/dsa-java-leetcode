@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0189-rotate-array) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
