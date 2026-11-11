@@ -726,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1386-cinema-seat-allocation](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1386-cinema-seat-allocation) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
