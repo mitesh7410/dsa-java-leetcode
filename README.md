@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0127-word-ladder) |
+| [0146-lru-cache](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0146-lru-cache) |
 | [0229-majority-element-ii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0146-lru-cache](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0148-sort-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
@@ -954,4 +957,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
