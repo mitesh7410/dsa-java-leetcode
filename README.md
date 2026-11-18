@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0131-palindrome-partitioning) |
 | [0168-excel-sheet-column-title](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0242-valid-anagram) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0486-predict-the-winner) |
@@ -729,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0257-binary-tree-paths) |
 ## Simulation
