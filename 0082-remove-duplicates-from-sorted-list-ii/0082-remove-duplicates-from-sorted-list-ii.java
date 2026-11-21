@@ -17,12 +17,10 @@ class Solution {
         ListNode prev = dummy,curr = head;
         while(curr!=null&&curr.next!=null){
             ListNode next = curr.next;
-            boolean  b = false;
+            if(curr.val==next.val){
             while(next!=null&&curr.val==next.val){
                 next = next.next;
-                b =  true;
             }
-            if(b){
                 prev.next = next;
                 curr = next;
             }
