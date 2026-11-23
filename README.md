@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0179-largest-number) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0409-longest-palindrome) |
