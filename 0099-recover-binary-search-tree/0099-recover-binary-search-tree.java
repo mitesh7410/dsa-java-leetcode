@@ -14,36 +14,29 @@
  * }
  */
 class Solution {
-    int val1;
-    int val2;
-    List<Integer> li =  new ArrayList<>();
-    void inorder(TreeNode root){
-        if(root==null) return;
-        inorder(root.left);
-        li.add(root.val);
-        inorder(root.right);
-    }
-    void inorderT(TreeNode root){
-        if(root==null) return;
-        
-        inorderT(root.left);
-        if(root.val==val1) root.val= val2;
-        else if(root.val==val2) root.val= val1;
-        inorderT(root.right);
-    }
+    List<TreeNode> list = new ArrayList<>();
     public void recoverTree(TreeNode root) {
         inorder(root);
-        List<Integer> s =  new ArrayList<>(li);
-        Collections.sort(s);
-        int len = s.size();
-        for(int i=0;i<len;i++){
-            if(li.get(i)!=s.get(i)){
-                val1=li.get(i);
-                val2=s.get(i);
-                break;
+        TreeNode first = null;
+        TreeNode second = null;
+        for(int i = 0; i < list.size() - 1; i++){
+            if(list.get(i).val > list.get(i+1).val){
+                if(first == null){
+                    first = list.get(i);
+                }
+                second = list.get(i+1);
             }
         }
-        inorderT(root);
-        return; 
+        int temp = first.val;
+        first.val = second.val;
+        second.val = temp;
+    }
+    void inorder(TreeNode root){
+        if(root == null){
+            return;
+        }
+        inorder(root.left);
+        list.add(root);
+        inorder(root.right);
     }
 }
