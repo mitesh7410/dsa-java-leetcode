@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0486-predict-the-winner) |
 | [0503-next-greater-element-ii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0542-01-matrix) |
+| [0645-set-mismatch](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0733-flood-fill](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0860-lemonade-change) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0645-set-mismatch](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0645-set-mismatch](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -775,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0645-set-mismatch](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mitesh7410/dsa-java-leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
