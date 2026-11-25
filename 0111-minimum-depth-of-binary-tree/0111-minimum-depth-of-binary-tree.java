@@ -14,14 +14,13 @@
  * }
  */
 class Solution {
-    int min = Integer.MAX_VALUE;
-    public int minDepth(TreeNode root) {
+    int inorder(TreeNode  root){
         if(root==null) return 0;
-        if(root.left==null&&root.right==null) return 1;
-        int left = minDepth(root.left);
-        int right = minDepth(root.right);
-        if(left==0) left = right;
-        if(right==0) right = left;
-        return 1+Math.min(left,right);
+        int left = inorder(root.left);
+        int right = inorder(root.right);
+        return 1+Math.min(left==0?right:left, right==0?left:right);
+    }
+    public int minDepth(TreeNode root) {
+        return inorder(root);
     }
 }
